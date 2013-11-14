@@ -1,6 +1,6 @@
 # arcgis-viewer-flex
 
-This is the source code for the ArcGIS Viewer for Flex (a.k.a Flex Viewer). Learn more about Flex Viewer at [ArcGIS Viewer for Flex resource center](http://links.esri.com/flexviewer).
+This is is the source code for the ArcGIS Viewer for Flex (a.k.a Flex Viewer). Learn more about Flex Viewer at [ArcGIS Viewer for Flex resource center](http://links.esri.com/flexviewer).
 
 [View live app here](http://resources.arcgis.com/en/help/flex-viewer/live/index.html)
 
